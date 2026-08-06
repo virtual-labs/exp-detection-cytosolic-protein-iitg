@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The antigen-antibody interaction involves",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Irreversible covalent interaction between the epitope and the Fab region.",
+        "b": "Non-covalent interaction between the antigenic determinants and the Fc region.",
+        "c": "Non-covalent interaction between the epitope and the Fab region.",
+        "d": "Covalent interaction between epitope and the Fc region."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The parameter to define binding capacity of antibody is",
+      "answers": {
+        "a": "Avidity",
+        "b": "Affinity",
+        "c": "Cross reactivity",
+        "d": "Specificity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "______ part of the antibody is associated with carbohydrate moieties.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Constant region of light chain",
+        "b": "Constant region of heavy chains",
+        "c": "Variable region of light chain",
+        "d": "Variable region of heavy chain"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "______ part of the antibody bind antigen.",
+      "answers": {
+        "a": "Fc",
+        "b": "Constant region of light chain",
+        "c": "Fab",
+        "d": "Hinge region"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "One molecule of IgG antibody can bind ____ molecules of antigens.",
+      "answers": {
+        "a": "One",
+        "b": "Two",
+        "c": "Four",
+        "d": "Ten"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Immune system of mammals can efficiently recognize ______ antigens.",
+      "answers": {
+        "a": "Protein",
+        "b": "Carbohydrate",
+        "c": "Lipid",
+        "d": "Small molecule"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is involved in humoral mediated immunity?",
+      "answers": {
+        "a": "T-cells",
+        "b": "B-cells",
+        "c": "Antibody",
+        "d": "Plasma B-cells"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Y-shaped structure of an antibody is composed of how many protein chains?",
+      "answers": {
+        "a": "1",
+        "b": "4",
+        "c": "3",
+        "d": "2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Monoclonal antibodies are a collection of antibodies secreted by a single",
+      "answers": {
+        "a": "T-cells",
+        "b": "B-cells",
+        "c": "Macrophage cells",
+        "d": "Natural killer cells"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "_____ class of antibodies is found as dimer in the body fluid.",
+      "answers": {
+        "a": "IgA",
+        "b": "IgG",
+        "c": "IgE",
+        "d": "IgD"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
