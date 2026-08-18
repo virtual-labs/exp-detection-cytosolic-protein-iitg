@@ -1,5 +1,3 @@
-### Procedure
-
 **Materials required for experiments:**
 
 1. E. coli cells over-expressing protein such as LDH.
@@ -121,7 +119,7 @@ The different chemiluminescent reagents are given in Table 1. Transfer the membr
 
 Secondary antibodies labeled with fluorescent dye and captured in the scanner.
 
-**Result:** The developed blot is given in the given Figure 4 where anti-His antibodies are been used to detect over-expression of malarial protein in *E. coli* expression system.
+**Result:** The developed blot is given in the given Figure 4 where anti-His antibodies are been used to detect over-expression of malarial protein in _E. coli_ expression system.
 
 ![Figure 4](images/procedure-image-2.png)
 
