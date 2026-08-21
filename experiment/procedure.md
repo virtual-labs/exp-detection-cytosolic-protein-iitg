@@ -126,3 +126,9 @@ Secondary antibodies labeled with fluorescent dye and captured in the scanner.
 <p align="center" >
 <b>Figure 4: Detection of Protein over-expression in <i>E. coli</i> expression system.</b> Lane M = Marker, lane I = Induced sample, lane UI = Uninduced sample and lane <i>FP2</i> = Purified <i>Falcipain II</i>.
 </p>
+
+---
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/FbT9j7Oaaik/maxresdefault.jpg)](https://www.youtube.com/watch?v=FbT9j7Oaaik)
