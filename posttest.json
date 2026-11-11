@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In western blotting, for detection of a phosphoprotein, ________ is used to avoid non-specific binding of antibody.",
+      "answers": {
+        "a": "5% BSA (fat free)",
+        "b": "5% Skimmed milk",
+        "c": "5% Methanol",
+        "d": "5% SDS"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Transfer of protein from gel to the membrane can be checked by",
+      "answers": {
+        "a": "Silver staining",
+        "b": "CBB staining",
+        "c": "Ponseau S staining",
+        "d": "Sypro ruby staining"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Use of the enzyme alkaline phosphatase for blot development is NOT compatible with",
+      "answers": {
+        "a": "Tris-buffered saline",
+        "b": "Phosphate buffered saline",
+        "c": "Buffer containing non-ionic detergent",
+        "d": "Fat free BSA blocking solution"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of membrane blocking in Western Blotting?",
+      "answers": {
+        "a": "To prevent proteins from binding to the membrane.",
+        "b": "To remove excess antibodies.",
+        "c": "Prevent non-specific binding and reduce background noise.",
+        "d": "Visualize protein bands."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Tween-20 is used in western blotting to",
+      "answers": {
+        "a": "Reduce nonspecific binding and protein-protein interaction.",
+        "b": "Ensure proper binding of secondary antibody.",
+        "c": "Facilitate the transfer of protein on to the nitrocellulose.",
+        "d": "Ensure proper binding of primary antibody."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The chemiluminescent substrate used to detect the signal from secondary antibody coupled to alkaline phosphatase is",
+      "answers": {
+        "a": "Luminol",
+        "b": "p-nitrophenol phosphate",
+        "c": "Substituted 1,2-dioxetane phosphate",
+        "d": "BCIP/NBT"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The most appropriate approach to test the availability of tubulin protein in Plasmodium falciparum infected RBCs is",
+      "answers": {
+        "a": "Western blotting",
+        "b": "Radial immunodiffusion assay",
+        "c": "Flow cytometry",
+        "d": "Gel filtration chromatography"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The tracking dye used in SDS-PAGE is",
+      "answers": {
+        "a": "Cibacron blue",
+        "b": "Bromophenol blue",
+        "c": "Coomassie brilliant blue R250",
+        "d": "Coomassie brilliant blue G250"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "We are using a combination of primary and secondary antibodies to detect protein during western blotting. What is the purpose of using two different antibodies?",
+      "answers": {
+        "a": "Secondary antibody enhances specificity of primary antibody.",
+        "b": "Secondary antibody reduces signal of primary antibody.",
+        "c": "Two antibodies reduce background signal.",
+        "d": "Secondary antibody enhances signal of primary antibody."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The reagent used to develop an HRP based secondary antibody system in western blot is",
+      "answers": {
+        "a": "BCIP/NBT",
+        "b": "Substituted 1,2-dioxetane phosphate",
+        "c": "Dimezone",
+        "d": "Luminol/H2O2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
