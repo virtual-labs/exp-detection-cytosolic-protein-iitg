@@ -1,6 +1,6 @@
 **Materials required for experiments:**
 
-1. E. coli cells over-expressing protein such as LDH.
+1. E. coli cells over-expressing a protein such as Pf-Falcipain.
 2. Protein standard markers.
 3. Transfer buffer.
 4. Transfer membrane: 0.45 µm nitrocellulose membrane or PVDF membrane.
@@ -9,7 +9,7 @@
 7. Blotting sheets: 3 mm thick cellulose blotting sheets.
 8. Semi-dry electroblotting unit.
 9. Reagents for performing electrophoresis.
-10. Anti-LDH antibodies.
+10. Anti-His antibodies.
 11. Anti-rabbit IgG-HRP.
 12. Developing reagents.
 
@@ -119,7 +119,7 @@ The different chemiluminescent reagents are given in Table 1. Transfer the membr
 
 Secondary antibodies labeled with fluorescent dye and captured in the scanner.
 
-**Result:** The developed blot is given in the given Figure 4 where anti-His antibodies are been used to detect over-expression of malarial protein in _E. coli_ expression system.
+**Result:** The developed blot is given in the given Figure 4 where anti-His antibodies are been used to detect over-expression of malarial protein Falcipain II in the _E. coli_ expression system.
 
 ![Figure 4](images/procedure-image-2.png)
 

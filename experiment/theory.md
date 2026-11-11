@@ -1,6 +1,6 @@
 The western blot is a popular technique to detect the specific protein present in the crude lysate or homogenate. It uses the separation of different proteins in the gel electrophoresis (preferably SDS-PAGE) and then the transfer of protein onto a solid support such as a nitrocellulose membrane. It utilizes 2 different antibodies: a primary antibody to recognise the protein of interest and a secondary antibody to recognize the primary antibody. In most cases, a secondary antibody is coupled to an enzyme and it catalyzes chemical reaction to give color product or chemiluminescent signal. It is 10 step techniques as depicted in Figure 1:
 
-![Figure 1](images/image.png)
+![Figure 1](images/western-blotting-steps.jpeg)
 
 <p align="center" >
 <b>Figure 1: Steps in Western Blotting</b>
